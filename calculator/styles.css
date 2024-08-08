@@ -23,10 +23,10 @@ body {
     text-align: right;
     padding: 10px;
     margin-bottom: 20px;
-    border: 2px solid #ccc; /* Added border with color */
-    border-radius: 5px; /* Rounded corners for the border */
+    border: 2px solid #ccc;
+    border-radius: 5px; 
     background-color: #e6e6e6;
-    box-sizing: border-box; /* Ensure padding and border are included in the width and height */
+    box-sizing: border-box;
 }
 
 .buttons {
